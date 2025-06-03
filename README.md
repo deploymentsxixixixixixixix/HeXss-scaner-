@@ -1,6 +1,6 @@
 H Xscanner 
 
-Xscaner adalaj sebuah program yang sya tulis dlam bahasa python , dirancang untuk membantu mengidentifikasi potensi kerentanan SQL injection (SQLI) dan Cross-Site Scripting (XSS) pada aplikasi web . ini adalah jenis alat Dynamic Application Security TEsting (DAST) karena ia berinteraksi langsing dengan aplikasi web yang sedang berjalan 
+Xscaner adalah sebuah program yang sya tulis dlam bahasa python , dirancang untuk membantu mengidentifikasi potensi kerentanan SQL injection (SQLI) dan Cross-Site Scripting (XSS) pada aplikasi web . ini adalah jenis alat Dynamic Application Security TEsting (DAST) karena ia berinteraksi langsing dengan aplikasi web yang sedang berjalan 
 
 BAGAIMANA CARA KERJA TOOLS INI ? 
 Xscanner anda berkerja dengan cara ini 
